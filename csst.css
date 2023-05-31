@@ -1,0 +1,60 @@
+
+form{  
+    width: 700px;
+  border: 1px solid black;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: azure;
+}
+
+#fname{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#lname{
+    margin-bottom: 15px;
+}
+
+#gender{
+    margin-bottom: 15px;
+}
+
+#DoB{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#email{
+    margin-bottom: 15px;
+}
+
+#Address{
+    height: 50px;
+    width: 30%;
+}
+
+.submitB{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: blueviolet;
+    border: 6px red;
+    color: wheat;
+    text-decoration: wavy;
+    font-size: 20px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    padding: 15px 20px;
+}
+.submitB:hover{
+    background-color: darkblue;
+    color: aliceblue;
+}
+
+
+body{
+    text-align: center;
+    background-color: beige;
+}

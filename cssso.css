@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+.carbonara{
+    width: 550px;
+    height: 450px;
+}
+
+div.container{
+    text-align: center;
+}
+ul.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+div.start{
+    width: 500px;
+    margin: auto;
+    text-align: left;
+}
+
+div.align{
+    width: 500px;
+    margin: auto;
+    text-align: left;
+}
+
+.fap{
+    width: 550px;
+    height: 450px;
+}
+
+a:link, a:visited {
+    background-color: rgb(48, 147, 2);
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: coral;
+    color: rgb(255, 255, 255);
+    border-color: coral;
+  }
