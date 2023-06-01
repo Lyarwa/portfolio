@@ -82,3 +82,43 @@ section{
 #about{
     width: 500px;
     text-align: left;}
+
+    #submitb{
+      margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: blue;
+    border: 6px blue;
+    color: wheat;
+    text-decoration: wavy;
+    font-size: 15px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+    padding: 10px 15px;
+    }
+    #submitb:hover{
+      background-color: crimson;
+      color: orange;
+    }
+
+    #about{
+      text-align: center;
+      display: inline-block;
+    }
+
+    .tbutton{
+      margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: crimson;
+    border: 6px gold;
+    color: gold;
+    text-decoration: wavy;
+    font-size: 15px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+    padding: 10px 15px;
+    }
+
+    .tbutton:hover{
+      background-color: darkred;
+      color: darkgoldenrod;
+    }
